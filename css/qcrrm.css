@@ -1,0 +1,11 @@
+.article-box{
+    box-shadow: 1px 0px 5px #ffffff;
+    background: rgba(255, 255, 255, 0.5);
+    margin-top: 15px;
+}
+body{
+    background: url(/img/bp.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
